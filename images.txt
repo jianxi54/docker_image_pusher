@@ -1,2 +1,2 @@
-mcsmanager-daemon:laste
-mcsmanager-web:laste
+mcsmanager-daemon
+mcsmanager-web
