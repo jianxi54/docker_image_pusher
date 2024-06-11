@@ -1,1 +1,2 @@
-pepecitron/projectzomboid-server
+mcsmanager-daemon:laste
+mcsmanager-web:laste
